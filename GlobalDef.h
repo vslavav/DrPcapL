@@ -5,6 +5,9 @@
 #include <list>
 #include <map>
 #include <thread>
+#include <mutex>
+#include <cstring>
+#include <condition_variable>
 
 using namespace std;
 
